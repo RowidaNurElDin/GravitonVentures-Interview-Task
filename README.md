@@ -1,16 +1,8 @@
-# interview
+# GravitonVentures interview task
 
-A new Flutter project.
+Task requirements: 
+1- List todos found in https://dummyjson.com/todos *Done*
+2- Search using the id *Done*
+3- On clicking on the todo, go to its details  *That was not done since there was no extra data in the json file*
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
